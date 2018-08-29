@@ -1,6 +1,6 @@
 
 TITLE: 
-Epic - 100% Fully Responsive Free HTML5 Bootstrap Template
+Energy - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
@@ -27,6 +27,12 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
+Google Map
+https://maps.google.com/
+
+Simple Line Icons
+https://thesabbir.github.io/simple-line-icons/
+
 Icomoon
 https://icomoon.io/app/
 
@@ -39,5 +45,20 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
+Superfish Menu
+http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+
+hoverIntent
+https://github.com/briancherne/jquery-hoverIntent
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Flexslider 
+http://flexslider.woothemes.com/
+
+CountTo
+https://github.com/mhuggins/jquery-countTo
+
+Demo Images:
+http://unsplash.com/
